@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|solutionrelative:e-commerce_domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_domain\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|solutionrelative:e-commerce_domain\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_domain\\entites\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|solutionrelative:e-commerce_domain\\entites\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_domain\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|solutionrelative:e-commerce_domain\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_domain\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E992F8C-EE00-465F-836F-6FD363CE0C0E}|e-commerce_Domain\\e-commerce_Domain.csproj|solutionrelative:e-commerce_domain\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|solutionrelative:e-commerce_applicaon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|solutionrelative:e-commerce_applicaon\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|c:\\users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0665DA5-86E2-4DCF-AA00-9B54559D4010}|e-commerce_applicaon\\e-commerce_applicaon.csproj|solutionrelative:e-commerce_applicaon\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "e-commerce_Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "e-commerce_Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:59:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "e-commerce_Domain\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Product.cs",
+              "RelativeToolTip": "e-commerce_Domain\\Entites\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:59:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "e-commerce_Domain\\Entites\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\OrderProduct.cs",
+              "RelativeToolTip": "e-commerce_Domain\\Entites\\OrderProduct.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:59:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "e-commerce_Domain\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Order.cs",
+              "RelativeToolTip": "e-commerce_Domain\\Entites\\Order.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:59:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Customer.cs",
+              "RelativeDocumentMoniker": "e-commerce_Domain\\Entites\\Customer.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_Domain\\Entites\\Customer.cs",
+              "RelativeToolTip": "e-commerce_Domain\\Entites\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:59:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Program.cs",
+              "RelativeDocumentMoniker": "e-commerce_applicaon\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Program.cs",
+              "RelativeToolTip": "e-commerce_applicaon\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:58:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "e-commerce_applicaon\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "e-commerce_applicaon\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:58:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "e-commerce_applicaon\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ahmed arafa\\source\\repos\\e-commerce_applicaon\\e-commerce_applicaon\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "e-commerce_applicaon\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:58:31.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

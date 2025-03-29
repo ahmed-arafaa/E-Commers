@@ -1,0 +1,17 @@
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Application.deps.json
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Application.runtimeconfig.json
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Application.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Application.pdb
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Domain.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\bin\Debug\net8.0\e-commerce_Domain.pdb
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.csproj.AssemblyReference.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.AssemblyInfoInputs.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.AssemblyInfo.cs
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commer.13B1D125.Up2Date
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\refint\e-commerce_Application.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.pdb
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\e-commerce_Application.genruntimeconfig.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Application\obj\Debug\net8.0\ref\e-commerce_Application.dll

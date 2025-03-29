@@ -1,0 +1,14 @@
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\bin\Debug\net8.0\e-commerce_Domain.deps.json
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\bin\Debug\net8.0\e-commerce_Domain.runtimeconfig.json
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\bin\Debug\net8.0\e-commerce_Domain.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\bin\Debug\net8.0\e-commerce_Domain.pdb
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.csproj.AssemblyReference.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.AssemblyInfoInputs.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.AssemblyInfo.cs
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\refint\e-commerce_Domain.dll
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.pdb
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\e-commerce_Domain.genruntimeconfig.cache
+C:\Users\ahmed arafa\source\repos\e-commerce_applicaon\e-commerce_Domain\obj\Debug\net8.0\ref\e-commerce_Domain.dll

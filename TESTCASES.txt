@@ -1,0 +1,35 @@
+test casefor creat customer  
+"name": "MAZEN",
+  "email": "mazen@yahoo.com",
+  "phone": "0122588454"}  
+
+Created ok 
+
+
+
+  "name": "MAZEN",
+  "email": "mazenyahoo.com",
+  "phone": "0122588454"} 
+error
+
+  "name": "MAZEN",
+  "email": "mazen@yahoo.com",
+  "phone": "5555588454"} 
+error
+-------------------------------------------------
+test case for creat order 
+for creat order 
+{
+  "customerId": 1,
+  "status": "Pending",
+  "orderProducts": [
+    { "productId": 1, "quantity": 2 },
+    { "productId": 2, "quantity": 3 }
+  ],
+  "totalPrice": 150.00
+}
+
+
+for updaet 
+1 
+Delivered
