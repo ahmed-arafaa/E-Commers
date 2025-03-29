@@ -20,7 +20,7 @@ namespace e_commerce_applicaon.Controllers
         }
 
         
-        [HttpGet("Customers list")]
+        [HttpGet]
         
 
         public async Task<IActionResult> GetAllCustomers()
@@ -30,7 +30,7 @@ namespace e_commerce_applicaon.Controllers
         }
 
         
-        [HttpPost("Creat Customer ")]
+        [HttpPost]
         public async Task<IActionResult> CreateCustomer(Customer customer)
         {
             if (string.IsNullOrEmpty(customer.Name) || string.IsNullOrEmpty(customer.Email))
@@ -49,7 +49,7 @@ namespace e_commerce_applicaon.Controllers
         }
 
         
-        [HttpGet("Get By id")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetCustomerById(int id)
         {
             var customer = await _customerRepository.GetByIdAsync(id);
