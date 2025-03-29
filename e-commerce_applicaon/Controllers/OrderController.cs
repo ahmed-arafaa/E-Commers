@@ -14,7 +14,7 @@ namespace e_commerce_applicaon.Controllers
             _orderRepo = orderRepro;
         }
 
-        [HttpPost("CreatOrder")]
+        [HttpPost]
         public async Task<IActionResult> CreateOrder(Order order)
         {
             if (order.CustomerId == 0)
@@ -31,7 +31,7 @@ namespace e_commerce_applicaon.Controllers
 
 
         }
-        [HttpGet("details/{id}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetOrderDetails(int id)
         {
             var order = await _orderRepo.GetOrderDetailsAsync(id);
